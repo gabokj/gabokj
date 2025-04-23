@@ -2,10 +2,10 @@
 
 <table>
   <a href="https://github.com/gabokj">
-  <img src="https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png" width="120" alt="Python">
-  <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-noir.png" width="120" alt="HTML5">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="120" alt="CSS3">
-  <img src="https://banner2.cleanpng.com/lnd/20241004/te/dad6cce0f36ff2a88708044070485d.webp" width="120" alt="JavaScript">
+  <img src="https://banner2.cleanpng.com/20240131/spi/transparent-python-logo-white-python-icon-with-python-written-in-1710892010046.webp" width="120" alt="Python">
+  <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" width="120" alt="HTML5">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width="120" alt="CSS3">
+  <img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-1713908508689.webp" width="120" alt="JavaScript">
 </table>
 
 <div> 
