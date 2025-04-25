@@ -2,10 +2,10 @@
 
 <table>
   <a href="https://github.com/gabokj">
-  <img src="https://banner2.cleanpng.com/20240131/spi/transparent-python-logo-white-python-icon-with-python-written-in-1710892010046.webp" width="120" alt="Python">
-  <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" width="120" alt="HTML5">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width="120" alt="CSS3">
-  <img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-1713908508689.webp" width="120" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png" width="120" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="120" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
 </table>
 
 <div> 
