@@ -17,6 +17,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+**Análise de Dados**
+
+![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel&logoColor=green)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![Looker](https://img.shields.io/badge/-Looker-333333?style=flat&logo=looker&logoColor=F5A623)
+
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
